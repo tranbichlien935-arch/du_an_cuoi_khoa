@@ -1,4 +1,4 @@
-# 🎨 Hệ Thống Quản Lý Sinh Viên - Hướng Dẫn Frontend
+# 🎨 Hệ Thống Quản Lý Sinh Viên - Hướng Dẫn Frontend (vide chuyên nghiệp -xanh dương nhạt)
 
 ## 📋 Mục Lục
 
